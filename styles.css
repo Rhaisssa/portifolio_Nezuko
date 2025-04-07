@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+:root {
+    --cor-principal: #5b96da;
+    --cor-secundaria: #f7f8fa;
+    --cor-destaque: #d475f3;
+}
+
+bbody {
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+h1, h2, h5 {
+    color: var(--cor-secundaria);
+    font-weight: 700;
+}
+
+footer a {
+    color: var(--cor-principal)
+}
+
+footer a:hover {
+    color: var(--cor-destaque);
+}
