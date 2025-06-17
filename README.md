@@ -32,28 +32,6 @@ Projeto de página web em português que apresenta a personagem **Nezuko Kamado*
 
 ---
 
-## Estrutura do Projeto
-
-/
-├── index.html # Arquivo principal da página
-├── style.css # Estilos personalizados
-└── /img/ # Imagens usadas no projeto
-
-yaml
-Copiar
-Editar
-
----
-
-## Como Executar
-
-1. Clone ou faça download do repositório.  
-2. Abra o arquivo `index.html` em seu navegador preferido.  
-3. Navegue pela página, explore os cards e abra os modais para mais informações.  
-4. Assista ao trailer incorporado para uma experiência multimídia.
-
----
-
 ## Contato
 
 Para dúvidas ou sugestões, acesse meu GitHub:  
